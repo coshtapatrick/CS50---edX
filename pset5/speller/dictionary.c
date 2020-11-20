@@ -1,4 +1,3 @@
-//Made by PMBC
 // Implements a dictionary's functionality
 
 #include <stdbool.h>
