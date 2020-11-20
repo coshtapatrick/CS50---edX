@@ -1,4 +1,3 @@
-# Made by PMBC
 number = input("Number: ")
 
 # AMEX
