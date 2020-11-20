@@ -1,4 +1,3 @@
-# Made by PMBC
 from cs50 import SQL
 from sys import argv
 import csv
