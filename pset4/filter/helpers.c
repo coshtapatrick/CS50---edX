@@ -1,4 +1,3 @@
-// Made by PMBC
 // filter_more
 #include "helpers.h"
 #include <math.h>
