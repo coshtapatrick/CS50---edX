@@ -1,4 +1,3 @@
-# Made by PMBC
 from sys import argv
 import csv
 
