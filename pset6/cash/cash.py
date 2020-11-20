@@ -1,4 +1,3 @@
-# Made by PMBC
 from cs50 import get_float
 
 coins = 0 # .50 .25 .10 .05 .01
