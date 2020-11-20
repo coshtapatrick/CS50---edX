@@ -1,4 +1,3 @@
-# Made by PMBC
 text = input('Text: ')
 
 # 0.0588 * L - 0.296 * S - 15.8
