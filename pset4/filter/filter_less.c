@@ -1,4 +1,3 @@
-// Made by PMBC
 #include "helpers.h"
 #include <math.h>
 
