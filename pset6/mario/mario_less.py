@@ -1,4 +1,3 @@
-# Made by PMBC
 from cs50 import get_int
 
 h = -1
